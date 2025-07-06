@@ -58,6 +58,9 @@ V. 補充:
 
 
 ## 結論:
+益生菌包埋技術結合了食品科學與材料工程的原理，通過選取適當的包埋材料和工藝，使益生菌在惡劣的胃腸環境中倖存並順利定殖於腸道。海藻酸鈉、明膠、脂質體、聚合物及奈米粒子等不同材料各展所長，共同豐富了包埋技術的工具箱。包埋微膠囊為益生菌提供了避難所，抵擋胃酸與膽鹽的侵蝕，同時透過pH響應、酶降解等機制在腸道按時定點釋放益生菌。雙層包埋、可降解奈米膠囊、智能靶向釋放等新技術的湧現，進一步提高了益生菌制劑的穩定性和功能性。總而言之，益生菌包埋技術的原理與機制體現在一個“護送—釋放”的過程：先以精巧的材料科學為益生菌構築保護屏障，護送其穿越消化道險境；再利用環境信號觸發囊體打開，將益生菌精準投放至腸道定殖。隨著研究的不斷深入，這一領域將持續創新，為益生菌更高效地發揮健康作用提供堅實支撐。 
+
+## 參考資料:
 1. Characteristics of probiotic preparations and their applications. *Foods*, 2022, 11(16), 2472. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9407510/
 2. The efficacy of three double-microencapsulation methods for preservation of probiotic bacteria. *Scientific Reports*, 2021, 11(1), 13753. https://www.nature.com/articles/s41598-021-93263-z
 3. Application of Encapsulation Strategies for Probiotics: From Individual Loading to Co-Encapsulation. *Microorganisms*, 2023, 11(12), 2896. https://www.mdpi.com/2076-2607/11/12/2896
