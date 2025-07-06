@@ -8,7 +8,9 @@
 
 * 酸鹼值梯度：從胃到腸道的 pH 值劇變，考驗著益生菌的適應能力。
 * 其他還有溫度、水分活性、氧氣含量、益生菌製劑的組成、儲存時間等都是儲存過程中至關重要的因素。
-![foods-11-02472-g001](https://hackmd.io/_uploads/H19BCdvrxl.jpg)圖片引用自[1](https://pmc.ncbi.nlm.nih.gov/articles/PMC9407510/#abstract1)(Characteristics of probiotic preparations and their applications. Foods, 2022, 11.16: 2472.)
+![image](https://github.com/user-attachments/assets/a94bedd6-e79a-4cbb-be5b-91447c6f51e0)
+
+圖片引用自[1](https://pmc.ncbi.nlm.nih.gov/articles/PMC9407510/#abstract1)(Characteristics of probiotic preparations and their applications. Foods, 2022, 11.16: 2472.)
  
 
 這些障礙成為益生菌成功抵達腸道的關鍵因素。為了解決這些挑戰，包埋技術提供了有效的解決方案：透過雙層或多層微膠囊、生物可降解的奈米載體、酸鹼值與酶響應材料，以及靶向配體設計，能夠有效保護益生菌穿越惡劣環境，並在特定腸段進行精準釋放，從而提升其存活率和定殖率。以下簡單摘要目前益生菌包埋技術的發展。
